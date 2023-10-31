@@ -1,0 +1,23 @@
+[
+    {
+        "title":"This is the Title",
+        "subtitle": "This is the subtitle",
+        "description":["This is the description. This description is highlighted" ],
+        "list":["There can be a list", "With multiple items"],
+        "olist":["There can be an ordered list", "With multiple numbered items"],
+        "image": "template.png",
+        "descriptionClass":"highlight"
+    },
+
+    {
+        "subtitle": "This is the  next subtitle",
+        "description":["This is also a description. This description is not highlighted."," There can be lines in the description.","{{link}} {{link1}}"],
+        "linkText":["There can be links.", "Including more than one in a line"],
+        "linkVal":["http://127.0.0.1:5500/public/facility.html?page=bookings", "https://www.techtarget.com/whatis/definition/template"]
+    },
+    {
+        "subtitle":"This can also contain a link, {{link}}",
+        "linkText":["email us"],
+        "description":[" 'Email us' does not need a link added in the JSON, it will add the mailto link automatically"]
+    }
+]

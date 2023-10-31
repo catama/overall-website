@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- Contents of the dropdown menu -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<script src="./js/buttonFiller.js"></script>
+<script src="./js/param.js"></script>
+<!-- <script>checkUrl()</script> -->
+</head>
+<!-- Home Button -->
+<div id ="dropdown" class="topnav">
+  <div class = "topbar">
+    <a href="./" class="w3-bar-item" >
+      <i id="home"> Home </i>
+    </a>
+  </div>
+  
+  <!-- Contents of dropdown -->
+  <div id="myLinks"> 
+
+  </div>
+
+  <script> let page =localStorage.getItem("page"); </script>
+<script> paramCheck(); buttonGenerator()</script>
+
+  <!-- For use of hamburger button -->
+  <a href="javascript:void(0);" class="icon" onClick="menuDrop()">
+    <i id="hamburgerIcon" class="fa fa-chevron-down"></i>
+  </a>
+  
+  <script>document.addEventListener('click', function(event) {
+    if(event.target.classList.contains("topnav")){
+      menuDrop();
+    }
+  });
+  </script>
+
+</html>

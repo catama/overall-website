@@ -1,0 +1,18 @@
+[
+    {
+        "title":"Lily Thomson",
+        "description":[""]
+    },
+    {
+        "subtitle":"Other Creative Facilities resources",
+        "list":["Creative Facilities on {{link}}",
+        "Equipment bookings {{link1}}"],
+        "linkText":["learn.gold", "page"],
+        "linkVal":["https://learn.gold.ac.uk/course/view.php?id=6947","http://booking.doc.gold.ac.uk"]
+    },
+    {
+        "image":"SIML.jpeg",
+        "imageTitle":"Interior of SIML' class= 'roundedCorners",
+        "imageAlt":"Image showing the ceiling truss in SIML"
+    }
+]
