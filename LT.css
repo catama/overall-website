@@ -21,7 +21,7 @@ h1, h2,h3{
 
 h1 span{
   padding: 10px;
-  border-bottom: 2pt solid #f57600;
+  border-bottom: 2pt solid #2411cf;
 
 }
 
@@ -40,23 +40,23 @@ li {
   color: #616161
 }
 a,h2.orange {
-  color: #f57600;
+  color: #2411cf;
 }
 .topnav a:hover,.topnav a.active, .topnav a.icon:hover,a:hover{
   color: #DAE6EB;
 }
 
 .topbar,table th,.topnav a.active,.topnav a:hover {
-  background-color:#f57600;
+  background-color:#2411cf;
 }
 .topnav a:hover, #myLinks {
-  background:#f57600;
+  background:#2411cf;
 }
 body {
-  background-color: #fff4e4;
+  background-color: #b3b3b3;
 }
 .highlight,ol,ul{
-  background-color: #ffba6b;
+  background-color: #5244d3;
 }
 
 
@@ -169,7 +169,7 @@ table th {
 }
 
 .w3-button:hover{
-  background-color: #ffE9C9 !important;
+  background-color: #b3b3b3 !important;
 }
 
 
@@ -246,6 +246,6 @@ table th {
 }
 
 .w3-orange{
-  background-color: #f57600 !important
+  background-color: #2411cf !important
 }
 
