@@ -10,7 +10,7 @@
 
 /* --------- Fonts------------ */
 p,li,a,h1,h2,h3,h4,table,button {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Times New Roman', Times, serif;
  
 }
 
@@ -43,7 +43,7 @@ a,h2.orange {
   color: #2411cf;
 }
 .topnav a:hover,.topnav a.active, .topnav a.icon:hover,a:hover{
-  color: #DAE6EB;
+  color: #eaeaea;;
 }
 
 .topbar,table th,.topnav a.active,.topnav a:hover {
@@ -53,7 +53,7 @@ a,h2.orange {
   background:#2411cf;
 }
 body {
-  background-color: #b3b3b3;
+  background-color: #eaeaea;
 }
 .highlight,ol,ul{
   background-color: #5244d3;
@@ -140,7 +140,7 @@ table th {
 
 /* Navigation bar */
 .topnav a {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   float: left;
   color: black;
   text-align: left;
@@ -169,7 +169,7 @@ table th {
 }
 
 .w3-button:hover{
-  background-color: #b3b3b3 !important;
+  background-color: #eaeaea !important;
 }
 
 
