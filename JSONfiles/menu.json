@@ -1,8 +1,8 @@
 [
     {
         "section":"Artworks",
-        "subsection":["Tomorrow is the worst day of your life"],
-        "subsectionJSON":["tomorrow"]
+        "subsection":["Tomorrow is the worst day of your life", "Catastrophic Upload"],
+        "subsectionJSON":["tomorrow", "catastrophic"]
     
     }
 ]
