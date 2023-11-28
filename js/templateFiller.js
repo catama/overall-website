@@ -40,6 +40,10 @@ function generatePages(jsonFile) {
                 itemHtml += "<ol>{{list}}</ol>";
                 itemHtml = itemHtml.replace('{{list}}', item.olist.map(p => `<li>${p}</li>`).join(''));
             }
+            if(item.embed != null){
+                itemHtml += "<center>{{embed}}<\center>";
+                itemHtml = itemHtml.replace('{{embed}}', item.embed)
+            }
             if(item.linkText != null){
 
                 if(item.linkText.length == 1){
