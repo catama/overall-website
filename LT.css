@@ -10,7 +10,7 @@
 
 /* --------- Fonts------------ */
 p,li,a,h1,h2,h3,h4,table,button {
-  font-family: 'Times New Roman', Times, serif;
+  font-family: 'Courier', sans-serif;
  
 }
 
@@ -21,7 +21,7 @@ h1, h2,h3{
 
 h1 span{
   padding: 10px;
-  border-bottom: 2pt solid #2411cf;
+  border-bottom: 2pt solid #0000EE;
 
 }
 
@@ -37,26 +37,26 @@ ol,ul{
 }
 /* --------- Colors------------ */
 li {
-  color: #616161
+  color: #c6c6c6
 }
 a,h2.orange {
-  color: #2411cf;
+  color: #0000EE;
 }
 .topnav a:hover,.topnav a.active, .topnav a.icon:hover,a:hover{
   color: #eaeaea;;
 }
 
 .topbar,table th,.topnav a.active,.topnav a:hover {
-  background-color:#2411cf;
+  background-color:#0000EE;
 }
 .topnav a:hover, #myLinks {
-  background:#2411cf;
+  background:#0000EE;
 }
 body {
   background-color: #eaeaea;
 }
 .highlight,ol,ul{
-  background-color: #5244d3;
+  background-color: #4646f0;
 }
 
 
@@ -140,7 +140,7 @@ table th {
 
 /* Navigation bar */
 .topnav a {
-  font-family: 'Times New Roman', Times, serif;
+  font-family: 'Courier', sans-serif;
   float: left;
   color: black;
   text-align: left;
@@ -246,6 +246,6 @@ table th {
 }
 
 .w3-orange{
-  background-color: #2411cf !important
+  background-color: #0000EE !important
 }
 
