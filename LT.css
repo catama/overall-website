@@ -72,10 +72,10 @@ img {
   height: auto;
   
 }
-
+/*
 .roundedCorners{
-  /*border-radius: 15px;*/
-}
+  border-radius: 15px;
+}*/
 
 .highlight{
   border-radius: 15px;
