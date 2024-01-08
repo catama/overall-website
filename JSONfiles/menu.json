@@ -1,8 +1,31 @@
 [
+  
     {
-        "section":"Works",
-        "subsection":["Tomorrow is the worst day of your life", "Catastrophic Upload", "Enhanced Object", "Mindscape", "Written on Stones"],
-        "subsectionJSON":["tomorrow", "catastrophic", "enhanced", "mindscape", "written"]
+        "section":"Games",
+        "subsection":["Tomorrow is the worst day of your life", "Mindscape", "Jars"],
+        "subsectionJSON":["tomorrow", "mindscape", "jar"]
+    
+    },
+    {
+        "section":"VR",
+        "subsection":[ "Wandering Simulator"],
+        "subsectionJSON":["wandering"]
+    
+    },
+    {
+        "section":"Creative Coding",
+        "subsection":["Catastrophic Upload", "Enhanced Object" ],
+        "subsectionJSON":[ "catastrophic", "enhanced"]
+    
+    },
+    {
+        "section":"Artworks",
+        "subsection":["Written on Stones", "Blocks of Life", "Press any button to Continue"],
+        "subsectionJSON":[ "written", "blocks", "press"]
     
     }
+
+
+
+
 ]
