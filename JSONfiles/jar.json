@@ -3,6 +3,9 @@
         "title":"Jars",
         "description":["Jars is a work in progress built in the game engine Unity to create a series of generative terrariums. Landscapes shaped by digital seeds materialise within the enclosed digital ecosystems. Procedural algorithms govern the growth and interactions of the virtual flora and fauna. Every element of the virtual jar is created through scripts, an experiment in C# landscaping and miniature world building."]
     },
+    {
+        "image":"Jar5.jpg"
+    },
 
     {
         "image":"Jar1.png"
@@ -16,9 +19,7 @@
     {
         "image":"Jar4.png"
     },
-    {
-        "image":"Jar5.jpg"
-    },
+ 
     {
         "image":"Jar6.jpg"
     }
